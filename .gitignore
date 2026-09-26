@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Mod menu runtime artifacts
+logs/
+*.log
+injector_cache/
+offsets_dump.json
+
+# Native build output (C++ helper)
+native/build/
+*.obj
+*.pdb
+
+# Game-adjacent temp
+AmongUsModMenu.local.toml
