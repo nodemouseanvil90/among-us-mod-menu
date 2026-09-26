@@ -1,0 +1,7 @@
+pymem==1.13.0
+pywin32==306
+pydantic==2.7.1
+rich==13.7.1
+tomli==2.0.1
+loguru==0.7.2
+pytest==8.2.0
