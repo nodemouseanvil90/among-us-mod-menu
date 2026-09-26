@@ -1,0 +1,11 @@
+process_name = "Among Us.exe"
+dry_run = false
+enabled_handlers = ["speed", "role", "task", "vision"]
+speed_multiplier = 2.5
+role_reveal = true
+auto_tasks = false
+vision_range = 2.0
+
+[offsets]
+player_speed = 0x1F4A2C
+task_counter = 0x1F4B80
